@@ -14,3 +14,9 @@
 <br />
 
 #
+
+### 📊 Stats
+
+![Virtual's GitHub stats](https://github-readme-stats.vercel.app/api?username=Virtual4087&show_icons=true&theme=gruvbox)
+
+
