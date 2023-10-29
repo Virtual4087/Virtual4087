@@ -16,7 +16,6 @@
 - 🧑🏻‍💻 Developer in progress
 - 🎓 Currently, a First-year student taking Computer Science  
 - 💻 I am Currently learning TypeScript
-- 🎨 I have familiarity with User Interface & User Experience
 </header>
 
 
