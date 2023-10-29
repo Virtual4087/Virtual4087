@@ -33,13 +33,13 @@ Hi! 👋 I'm Shovit, An ambitious student with a strong passion for IT. Currentl
 
   <td>
   <a href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
-    <img src="https://skillicons.dev/icons?i=python,django,nodejs,react,html,css,tailwind,bootstrap,javascript,c,sqlite" />
+    <img src="https://skillicons.dev/icons?i=python,django,react,html,css,tailwind,bootstrap,javascript,c,sqlite" />
   </a> 
   </td>
     </tr>
   <td>
     <a href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,netlify" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github" />
   </a> 
   </td>
     </tr>
