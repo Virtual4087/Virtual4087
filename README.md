@@ -24,7 +24,7 @@
 
 ## About me 😎
 
-Hi! 👋 I'm Shovit, An ambitious student with a strong passion for IT. Currently pursuing my education, I am on a journey to blend theoretical knowledge with practical experiences. I actively engage in community discussions, collaborate on open-source projects, and connect with fellow developers to stay updated on the field and further expand my knowledge and skills.
+Hi! 👋 I'm Shovit, a first year student with a strong passion for IT. Currently pursuing my education, I am on a journey to blend theoretical knowledge with practical experiences. I actively engage in community discussions, collaborate on open-source projects, and connect with fellow developers to stay updated on the field and further expand my knowledge and skills.
 
 ---
 
