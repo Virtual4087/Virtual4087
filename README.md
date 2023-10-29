@@ -51,7 +51,7 @@ Hi! 👋 I'm Shovit, an ambitious student with a strong passion for IT. Currentl
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Virtual4087&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Virtual4087&theme=onestar&title=MultiLanguage,Reviews,Repositories,Commits,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
