@@ -1,22 +1,54 @@
-### 🧰 Languages and Tools
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="Sqlite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />        
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
-
-#
-
-### 📊 Stats
-
-![Virtual's GitHub stats](https://github-readme-stats.vercel.app/api?username=Virtual4087&show_icons=true&theme=gruvbox)
+<header align="left">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=32&duration=4000&pause=800&color=FDFDFD&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Let's+Connect!+%F0%9F%A4%9D)](https://git.io/typing-svg)
+    
+<section>
+  <a href="https://www.linkedin.com/in/shovit-bhatta-117101248/" target="_blank">
+    <img src="https://img.shields.io/badge/Let's Connect |-LinkedIn-4d4f73?style=plat&amp;logo=linkedin&amp;logoColor=2677c8" alt="LinkedIn" title="Let's Connect">
+  </a>
+  <a href="mailto:shovitbhatta4@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Talk |-Gmail-4d4f73?style=plat&amp;logo=gmail&amp;logoColor=ea4335" alt="Gmail">
+  </a>
+</section>
+<br>
 
 
+- 🧑🏻‍💻 Developer in progress
+- 🎓 Currently, a First-year student taking Computer Science  
+- 💻 I am Currently learning TypeScript
+- 🎨 I have familiarity with User Interface & User Experience
+</header>
+
+
+<section align="left">
+
+## About me 😎
+
+Hi! 👋 I'm Shovit, An ambitious student with a strong passion for IT. Currently pursuing my education, I am on a journey to blend theoretical knowledge with practical experiences. I actively engage in community discussions, collaborate on open-source projects, and connect with fellow developers to stay updated on the field and further expand my knowledge and skills.
+
+---
+
+<section align="center">
+
+
+  <td>
+  <a href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
+    <img src="https://skillicons.dev/icons?i=python,django,nodejs,react,html,css,tailwind,bootstrap,javascript,c,sqlite" />
+  </a> 
+  </td>
+    </tr>
+  <td>
+    <a href="https://skillicons.dev" title="Visit https://skillicons.dev for more information">
+    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,netlify" />
+  </a> 
+  </td>
+    </tr>
+<br><br>
+
+
+
+| <img src="https://github-readme-stats.vercel.app/api?username=Virtual4087&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Virtual4087&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> |
+| --- | --- | 
+
+
+<br>
