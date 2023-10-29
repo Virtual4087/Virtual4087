@@ -48,7 +48,7 @@ Hi! 👋 I'm Shovit, an ambitious student with a strong passion for IT. Currentl
 [![An image of @virtual40878's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/virtual40878)](https://holopin.io/@virtual40878)
 
 
-<br><br>
+<br><br><br>
 
 | <img src="https://github-readme-stats.vercel.app/api?username=Virtual4087&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Virtual4087&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> |
 | --- | --- | 
