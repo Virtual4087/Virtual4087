@@ -14,7 +14,7 @@
 
 
 - 🧑🏻‍💻 Developer in progress
-- 🎓 Currently, a Second-year student taking Computer Science  
+- 🎓 Currently, a Third-year student taking Computer Science  
 - 💻 I am Currently learning Django
 </header>
 
