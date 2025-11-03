@@ -1,6 +1,6 @@
 <header align="left">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=32&duration=4000&color=#000000&pause=800&vCenter=true&width=800&lines=Welcome+to+my+profile!;Let's+Connect!+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=900&size=32&duration=4000&color=000000&pause=800&vCenter=true&width=800&lines=Welcome+to+my+profile!;Let's+Connect!+%F0%9F%A4%9D)](https://git.io/typing-svg)
     
 <section>
   <a href="https://www.linkedin.com/in/shovit-bhatta-117101248/" target="_blank">
